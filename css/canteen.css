@@ -84,6 +84,19 @@ ul li a:hover{
     background: url('https://cdn.pixabay.com/photo/2018/02/07/12/01/restaurant-3136935_960_720.jpg');
     background-size: cover;
 }
-p{
+.tex{
+    background: rgba(0,0,0,0.5);
+    width: 40%;
+    padding: 10px;
+    border-radius: 5px;
     color: white;
+}
+.btn{
+    width: 150px;
+    padding: 10px;
+    cursor: pointer;
+    background: rgba(0,191,255);
+    color: white;
+    border: none;
+    margin-bottom: 20px;
 }
